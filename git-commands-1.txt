@@ -15,24 +15,30 @@ git push origin master					--> Push to master branch
 -----------------------------------------------------------------------------------------------------------------------
 
 
+Scenario 1:
+First Release --> Done
+Second Release
+	2 Features
+	2 People
+Third Release
+	1 Feature
+	1 Person
 
+Scenario 2:
+Two People
 
+Person A --> Enhance the framework
+Person B --> Automaating Test Cases
 
+testMethod1 --> getName()
 
+Person A --> Mergecode to master
+Person B --> Pull from master to private branch, merge code to master
 
+Scenario 3:
+1 Person --> Two different features
+Work on different branches
 
-
-
-
-
-
-
-
-
-
-
-
-			
 			PrivateBranch1-----------------------
 			|				     |
 			|				     |
